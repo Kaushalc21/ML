@@ -61,7 +61,6 @@ The objective of this repository is to:
 
 **Kaushal Choudhari**  
 Aspiring **AI / Data Engineer**  
-Skills: Python, Machine Learning, SQL, FastAPI, Data Analysis
 
 ---
 
